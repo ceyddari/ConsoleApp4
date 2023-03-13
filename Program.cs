@@ -10,8 +10,6 @@ namespace Metotlar
             double fiyati = 15;
             string aciklama = "Amasya elması";
 
-
-
             Urun urun1 = new Urun();
             urun1.Adi = "Elma";
             urun1.Fiyati = 15;
